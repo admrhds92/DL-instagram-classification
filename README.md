@@ -8,3 +8,5 @@ To train these models from scratch you can run the fullRun.ipynb notebook. This 
 
 MODEL TRAINING VISUALIZATION<br />
 After collecting the necessary text files from fullRun.ipynb, run the crossValidationVisual.ipynb notebook which will load in the text files and display the validation accuraccies across epochs with confidence intervals.
+
+Code built on top of previous work by https://www.kaggle.com/code/gpiosenka/f1-score-98
