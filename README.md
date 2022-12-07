@@ -1,5 +1,7 @@
 # DL-instagram-classification
 
+The purpose of this project was to compare how well 3 different CNN architectures perform on classifying instagram screenshots. The screenshots are labeled into 5 categories. The architectures tested are VGG16, ResNet50 and EfficientNet.
+
 PRETRAINED MODELS<br />
 To run the pretrained CNN models the preTrainedDeployment.ipynb notebook will walk you through all steps. This notebook will download the images and creat directories for the images. It will also download the .h5 models and will continue to walk you through testing them on the images. Finally at the end of the notebook you can test individual images and upload custom images.
 
